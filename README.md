@@ -43,7 +43,7 @@ It shows:
 After writing the code in vs code then we have to run the code and rectify if there are error
 Then we have connect it to github repository
 Go to github create a new repository name it then give the following commands
-git init
-git add .
-git commit -m "random name"
-git push
+- git init
+- git add .
+- git commit -m "random name"
+- git push
