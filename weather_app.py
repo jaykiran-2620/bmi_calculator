@@ -1,6 +1,6 @@
 import requests
 
-print("===== Weather App =====")
+print("*** Weather App ***")
 
 city = input("Enter city name: ")
 

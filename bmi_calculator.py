@@ -1,6 +1,6 @@
 # BMI Calculator
 
-print("===== BMI Calculator =====")
+print("*** BMI Calculator ***")
 
 name = input("Enter your name: ")
 
